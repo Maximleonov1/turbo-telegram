@@ -1,0 +1,6 @@
+class Pokemon
+data=[id, name, height, weight]
+id:"60"
+name:"Poliwag"
+height:"6"
+weight:"124"
