@@ -1,6 +1,22 @@
 class Pokemon
 data=[id, name, height, weight]
-id:"60"
+print("Получите покемона с именем",name)
+
+for i in id(30.0.90):
+  if id=60:
+    print("вы получили поливага поздравляем!")
+   else:
+    print("вы не получили поливага, в следуюищй раз получится!")
+   return id
 name:"Poliwag"
-height:"6"
-weight:"124"
+height:6
+weight:124
+class BasePokemon(Pokemon.data(1))
+class PokeAPI
+print("ID:" get_pokemon.data(id))
+def.get_all(get_full = False)
+if get_full=False:
+  print(BasePokemon)
+ else:
+  print(get_pokemon.dataclass)
+  break
